@@ -1,6 +1,6 @@
 # ZeroCat 编程社区
 
-初中喵开发，求Star支持
+高中喵开发，求Star支持
 
 
 ZeroCat 是一个轻量级的在线编程、分享平台
@@ -18,7 +18,7 @@ QQ：964979747
 
 ## 示例
 
-想了解社区效果，请参考 [ZeroCat](https://ourworld.wuyuan.dev)。
+想了解社区效果，请参考 [ZeroCat](https://zerocat.houlangs.com)。
 
 ## 开发者
 
