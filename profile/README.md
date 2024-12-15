@@ -26,5 +26,6 @@ QQ：964979747
 
 
 
-![社区(Github图床)](https://github.com/ZeroCatDev/ZeroCat/assets/88357633/d6f4a6ba-daa1-45c8-88f7-4b20d9edbb22)
-
+| NodeJS      | Visual Studio Code | Cloudflare |
+| :-------- | :--- | :--- |
+| ![社区(Github图床)](../public/Node.js.png) | ![社区(Github图床)](../public/VSCode-Thick.png)  | ![社区(Github图床)](../public/Cloudflare.png) |
